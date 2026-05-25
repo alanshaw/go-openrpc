@@ -1,3 +1,5 @@
-module github.com/zchee/go-openrpc
+module github.com/alanshaw/go-openrpc
 
-go 1.14
+go 1.23.0
+
+require github.com/google/jsonschema-go v0.4.3

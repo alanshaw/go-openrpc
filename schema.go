@@ -8,7 +8,7 @@ import (
 	"encoding/json"
 	"strconv"
 
-	"github.com/zchee/go-openrpc/internal/jsonschema"
+	"github.com/google/jsonschema-go/jsonschema"
 )
 
 // Schema represents a root document object of the OpenRPC document.
